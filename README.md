@@ -3,7 +3,7 @@ Gerador de Pix – Aplicativo Python com interface moderna para criar chaves Pix
 
 # Gerador de Pix 🎉
 
-![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)  
+![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)  
 ![License](https://img.shields.io/badge/License-MIT-green.svg)  
 ![Author](https://img.shields.io/badge/Author-LucasDesignerF-orange.svg)
 
